@@ -106,4 +106,5 @@ Calculate the beta of the portfolio`(beta= covariance of the portfolio/the varia
 
 Looking at the analysis done in previous sections, we had shortlisted the two portfolios, wherein  i.e.BERKSHIRE HATHAWAY INC  had higher standard deviation (volatility)but higher sharpe ratio, and TIGER GLOBAL MANAGEMENT LLC. had lower standard deviation (volatility) and lower sharpe ratio. 
 Further we deepened our analysis on these two portfolios by using covariance, beta calculations and overlay visualization of the 60-day rolling betas of the portfolios.It shows that BERKSHIRE HATHAWAY INC with higher beta is more sensitive to movements in S&P 500 exhibiting persistently higher market risk as compared to TIGER GLOBAL MANAGEMENT LLC.
-`TIGER GLOBAL MANAGEMENT LLC. seems to be trading with a beta that is closest to the market, and could be the investment choice if looking to invest in conservative of the two portfolios.`
+
+## "TIGER GLOBAL MANAGEMENT LLC" seems to be trading with a beta that is closer to the market, and could be the investment choice if looking to invest in conservative of the two portfolios.
